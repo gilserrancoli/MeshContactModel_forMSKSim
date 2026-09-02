@@ -4,8 +4,9 @@
 % The bounds are scaled such that the upper/lower bounds cannot be
 % larger/smaller than 1/-1.
 %
-% Author: Antoine Falisse
-% Date: 12/19/2018
+% % Author: Gil Serrancolí, 
+% modified and adapted from Antoine Falisse
+% Date: 31/07/2024
 %
 function [bounds,scaling] = getBounds_3D_GC(Qs,NMuscle,nq,jointi,dev_cm,GRF,mode)
 
