@@ -12,16 +12,16 @@ movements = { 'ngait_og1', 'bouncy4', 'mtpgait3', 'ngait_tm_fast1', 'ngait_og5',
 thresholds = [1];
 
 % Faces (paired by index)
-femfaces_values = [342];
 tifaces_values  = [100];
+femfaces_values = [342];
 
 % Damping factor
-damping_Pairs = [0.001 1000];  % moment damping for knee add/rot
+damping_Pairs = [0.001 1000];  % moment damping for knee add/rot %%TO UPDATE description
 
 % Parameter grids
-kmax_list   = {1e4};   % Options.kInmaxpen 1e4 1e3 or max "Max"
-kpress_list = [1e4];   % Options.kInpress 1e3 1e4 1e5  best 1e4
-kcheck_list = [1e2];   % Options.kInCheckContacts 1e2 1e4 best 1e3
+kmax_list   = {1e4};   % Options.kInmaxpen 1e3 1e4 or max "Max", nominal 1e4
+kpress_list = [1e4];   % Options.kInpress 1e3 1e4 1e5  nominal 1e4
+kcheck_list = [1e2];   % Options.kInCheckContacts 1e2 1e3 1e4 norminal 1e2
 rad_list    = [1];             % Options.rad4Pairs (use [1 0.5] to sweep both)
 
 
