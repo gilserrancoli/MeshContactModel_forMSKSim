@@ -1,0 +1,70 @@
+Updating Model file from 30000 to latest format...
+Model name 'JW All Body-scaled' contains whitespace. It was renamed 'JWAllBody-scaled'.
+Loaded model JWAllBody-scaled from file D:\Gil\MeshesInAD\gaitWithKneeProsthesis\trackingSimulations_3D\OpenSimModel\subject_GC\JW All Body Model-scaled.osim
+Couldn't find file 'femoral_component.vtp'.
+Couldn't find file 'tibial_tray.vtp'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ConstraintSet 'constraintset' has subcomponents with duplicate name 'constantdistanceconstraint'.
+The duplicate is being renamed to 'constantdistanceconstraint_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'.
+The duplicate is being renamed to 'default_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_1'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'vasint-P4'.
+The duplicate is being renamed to 'vasint-P4_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'.
+The duplicate is being renamed to 'default_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_0'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+Updating Model file from 30000 to latest format...
+Model name 'JW All Body-scaled' contains whitespace. It was renamed 'JWAllBody-scaled'.
+Loaded model JWAllBody-scaled from file D:\Gil\MeshesInAD\gaitWithKneeProsthesis\trackingSimulations_3D\OpenSimModel\subject_GC\JW All Body Model-scaled.osim
+Couldn't find file 'femoral_component.vtp'.
+Couldn't find file 'tibial_tray.vtp'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ConstraintSet 'constraintset' has subcomponents with duplicate name 'constantdistanceconstraint'.
+The duplicate is being renamed to 'constantdistanceconstraint_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'.
+The duplicate is being renamed to 'default_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_1'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'vasint-P4'.
+The duplicate is being renamed to 'vasint-P4_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'.
+The duplicate is being renamed to 'default_0'.
+GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'.
+The duplicate is being renamed to 'pathwrap_0'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
